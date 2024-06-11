@@ -1,0 +1,16 @@
+{
+  "name": "shangxian-diary",
+  "version": "1.0.0",
+  "description": "首次发布npm包的学习日记",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/neohan666/wxmp-rsa.git"
+  }
+}
